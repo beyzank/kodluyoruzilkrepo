@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Images
 
-![Capture](https://github.com/ZehraKovar/kodluyoruzilkrepo/blob/main/Kodluyoruz.PNG)
+![Capture](https://raw.githubusercontent.com/beyzank/kodluyoruzilkrepo/main/30476529.png)
